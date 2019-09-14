@@ -8,5 +8,10 @@ public class App {
         System.out.println("PART II");
         Part2 gene2 = new Part2();
         gene2.testSimpleGene();
+
+        System.out.println("");
+        System.out.println("PART III");
+        Part3 gene3 = new Part3();
+        gene3.testing ();
     }
 }
